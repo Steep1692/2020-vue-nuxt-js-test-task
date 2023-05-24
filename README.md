@@ -2,7 +2,7 @@
 
 Test task – Vue Nuxt JS (SSR)
 
-#Task:
+## Task:
 Hi.
 Your task is to create a login system based on JSON file provided below. Always think about performance, possible unexpected user behavior like page refresh or direct access to protected zones. You should to demonstrate your knowledge in Vue framework, ECMAScript (6 and above) syntax knowledge, sass and responsive design. Think about componentization, separating and reusable techniques.
 • Your task is to create a login system based on JSON file using email only.
